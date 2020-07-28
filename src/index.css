@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    display: flex;
+    height: 108vh;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+
+    color: white;
+    background-color: #68008D;
+}
+
